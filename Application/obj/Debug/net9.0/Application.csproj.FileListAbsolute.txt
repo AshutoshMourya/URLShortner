@@ -1,0 +1,15 @@
+E:\Absolute Learning\Projects\Personal Project\URLShortner\URLShortner\Application\bin\Debug\net9.0\Application.deps.json
+E:\Absolute Learning\Projects\Personal Project\URLShortner\URLShortner\Application\bin\Debug\net9.0\Application.dll
+E:\Absolute Learning\Projects\Personal Project\URLShortner\URLShortner\Application\bin\Debug\net9.0\Application.pdb
+E:\Absolute Learning\Projects\Personal Project\URLShortner\URLShortner\Application\bin\Debug\net9.0\Domain.dll
+E:\Absolute Learning\Projects\Personal Project\URLShortner\URLShortner\Application\bin\Debug\net9.0\Domain.pdb
+E:\Absolute Learning\Projects\Personal Project\URLShortner\URLShortner\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+E:\Absolute Learning\Projects\Personal Project\URLShortner\URLShortner\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Absolute Learning\Projects\Personal Project\URLShortner\URLShortner\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+E:\Absolute Learning\Projects\Personal Project\URLShortner\URLShortner\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+E:\Absolute Learning\Projects\Personal Project\URLShortner\URLShortner\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+E:\Absolute Learning\Projects\Personal Project\URLShortner\URLShortner\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+E:\Absolute Learning\Projects\Personal Project\URLShortner\URLShortner\Application\obj\Debug\net9.0\Application.dll
+E:\Absolute Learning\Projects\Personal Project\URLShortner\URLShortner\Application\obj\Debug\net9.0\refint\Application.dll
+E:\Absolute Learning\Projects\Personal Project\URLShortner\URLShortner\Application\obj\Debug\net9.0\Application.pdb
+E:\Absolute Learning\Projects\Personal Project\URLShortner\URLShortner\Application\obj\Debug\net9.0\ref\Application.dll
